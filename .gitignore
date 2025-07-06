@@ -1,0 +1,22 @@
+# Ambientes virtuais
+venv/
+.env
+
+# Bytecode Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+*.pid
+
+# __MACOSX e afins
+.DS_Store
+
+# Banco de dados SQLite (se usar)
+*.sqlite3
+
